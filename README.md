@@ -4,7 +4,7 @@ A complete MERN (MongoDB, Express.js, React.js, Node.js) authentication app with
 
 ## 🔧 Tech Stack
 
-- **Frontend:** React.js (Vite), Context API, Zod, Tailwind CSS (if used)
+- **Frontend:** React.js (Vite), Context API, Zod
 - **Backend:** Node.js, Express.js, JWT, Bcrypt.js, dotenv
 - **Database:** MongoDB Atlas
 - **Tools:** Postman, VS Code
